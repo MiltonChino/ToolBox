@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToolBox</string>
+    <string name="by_milton_chino">By Milton Chino</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="map">Map</string>
+    <string name="calculator">Calculator</string>
+    <string name="alarm">Alarm</string>
+</resources>
