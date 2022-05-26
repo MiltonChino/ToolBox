@@ -5,4 +5,23 @@
     <string name="map">Map</string>
     <string name="calculator">Calculator</string>
     <string name="alarm">Alarm</string>
+    <string name="input_calc_desc">Hint input alarm text</string>
+    <string name="image_calc_desc">Calc Display Background</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_0">0</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_times">*</string>
+    <string name="button_division">/</string>
+    <string name="button_equal">=</string>
+    <string name="button_del">Del</string>
+    <string name="test_display">START</string>
 </resources>

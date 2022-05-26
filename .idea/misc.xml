@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/git/ToolBox/app/src/main/res/drawable/textview_border.xml" value="0.264" />
         <entry key="..\:/git/ToolBox/app/src/main/res/layout/activity_main.xml" value="0.4" />
-        <entry key="..\:/git/ToolBox/app/src/main/res/layout/alarm_layout.xml" value="0.72" />
+        <entry key="..\:/git/ToolBox/app/src/main/res/layout/alarm_layout.xml" value="0.264" />
         <entry key="..\:/git/ToolBox/app/src/main/res/layout/ic_grid_layout.xml" value="0.1" />
       </map>
     </option>
