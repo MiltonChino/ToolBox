@@ -33,6 +33,6 @@ Here is a list of useful websites
 # Future Work
 
 I will complete the toolbox, by adding at least 10 different useful tools
-* Complete the alarms layout
+* Complete the alarm layout
 * Complete the alarms processing
 * create another tool for the toolbox. Something related to mapping
