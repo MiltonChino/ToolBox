@@ -6,8 +6,8 @@ I am first focusing on creating an Alarm tool, and a Calculator tool
 This project has the purpose to practice the different uses that we can create for an android app.
 And also to help people to success in aspects of life, like studying, learning, working, planning, and organizing.
 
-The video explanation will come soon
-[Software Demo Video](#)
+Watch the video for an overview of how it works.
+[Software Demo Video](https://youtu.be/ucx2mAXqiM0)
 
 # Development Environment
 
@@ -35,4 +35,4 @@ Here is a list of useful websites
 I will complete the toolbox, by adding at least 10 different useful tools
 * Complete the alarms layout
 * Complete the alarms processing
-* create another tool for the toolbox.
+* create another tool for the toolbox. Something related to mapping
